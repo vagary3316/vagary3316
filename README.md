@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selina Chen
-- 👀 I’m interested in Data visualization/Database administration/DB management. Basically everything that could help my work better.
-- 🌱 I’m currently learning some coursera courses.
+- 👀 I’m interested in Data visualization/Database administration. Basically everything that could help my work better.
+- 🌱 I’m currently learning some MySQL courses on coursera.
 - 📫 Email: vagary3316@gmail.com
 
 <!---
